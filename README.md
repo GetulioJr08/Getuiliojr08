@@ -1,6 +1,4 @@
 # Getuiliojr08
-
-# Getuiliojr08
 # Olá, eu sou o Getúlio Barbosa Litaiff Júnior 👋
 
 Cientista de Dados em formação e entusiasta de tecnologia, focado em transformar dados em decisões estratégicas. 
